@@ -1,0 +1,7 @@
+cff-version: 1.0
+message: "If you use our code, please cite the github repo by using the following code."
+authors:
+  - family-names: Bachoumis
+    given-names: Athanasios
+    orcid: https://orcid.org/0000-0003-3887-9789
+title: "Text mining-assisted systematic literature review for data-driven energy analytics ensuring building-to-grid integrated system reliability"
