@@ -13,8 +13,8 @@ authors:
     orcid: 'https://orcid.org/0000-0003-3887-9789'
 identifiers:
   - type: url
-    value: 'https://github.com/tombax7/SystReview_ML4B2G'
-url: 'https://github.com/tombax7/SystReview_ML4B2G'
+    value: 'https://github.com/tombax7/SystReviewML4B2G'
+url: 'https://github.com/tombax7/SystReviewML4B2G'
 abstract: >-
   Text mining-assisted systematic literature review for data-driven energy analytics ensuring building-to-grid integrated system reliability
 license: MIT
