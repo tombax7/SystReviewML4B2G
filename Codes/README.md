@@ -8,3 +8,5 @@ BussinessDimensionAnalysis: Reproducing the statistical analysis results present
 LDA_Mallet: Topic modelling based on Latent Dirichlet Allocation algorithm.
 
 ML-dimension analysis: Reproducing the statistical analysis results presented in the paper
+
+Scopus-api: Downloading articles from scopus databased
