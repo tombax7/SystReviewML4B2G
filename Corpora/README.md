@@ -1,1 +1,1 @@
-Literature review and technical corpora 
+Databased including both literature review and technical corpora 
