@@ -1,8 +1,12 @@
 Contains the results of the topic-modelling process
 
 Review-RO: Contains the topic modelling results based on BERTopic  for the literature review corpus
+
 Technical-TO: Contains the topic modelling results based on BERTopic for the T0 of the technical corpus
+
 Technical-R1: Contains the topic modelling results based on BERTopic for the T1 of the technical corpus
+
 Services: Includes the documents related to each service as presented in the paper
+
 Topics_all: An excel file containing the results for the RO, T0, and T1-topic modelling processes
 
